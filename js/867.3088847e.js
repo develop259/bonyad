@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_pwa"]=self["webpackChunkvue_pwa"]||[]).push([[867],{9867:function(u,e,n){n.r(e),n.d(e,{default:function(){return f}});var t=function(){var u=this,e=u._self._c;return e("h2",[u._v("About")])},l=[],r={name:"AboutView"},a=r,s=n(1001),c=(0,s.Z)(a,t,l,!1,null,null,null),f=c.exports}}]);
+//# sourceMappingURL=867.3088847e.js.map
